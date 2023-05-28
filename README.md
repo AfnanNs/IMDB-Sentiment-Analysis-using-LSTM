@@ -1,6 +1,6 @@
 # IMDB-Sentiment-Analysis-using-LSTM
 
-This project, the goal is to analyze customers' sentiment towards a product by performing sentiment analysis on user reviews from IMDB.<br>
+The goal of This project is to analyze customers' sentiment towards a product by performing sentiment analysis on user reviews from IMDB.<br>
 
 Sentiment analysis is a widely used natural language processing (NLP) task that involves the classification of text into positive or negative based on the underlying sentiment
 . To perform sentiment analysis, we will be using a recurrent neural network (RNN), a deep learning model that can analyze sequences of data, such as text.<br>
